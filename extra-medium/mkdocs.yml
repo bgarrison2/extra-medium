@@ -1,4 +1,6 @@
 site_name: Extra Medium
+site_url: https://bgarrison2.github.io/extra-medium
+site-base-url: /extra-medium/
 nav:
   - Home: index.md
   
