@@ -6,7 +6,7 @@ nav:
   
 theme:
   name: material
-  logo: extra-medium/site/assets/favicon.png
+  logo: site/assets/favicon.png
   
   # Optional: Choose a color scheme (e.g., slate for dark mode)
   palette:
