@@ -6,7 +6,8 @@ nav:
   
 theme:
   name: material
-  logo: site/assets/images/logo.png
+  
+  logo: assets/logo.png
   
   # Optional: Choose a color scheme (e.g., slate for dark mode)
   palette:
