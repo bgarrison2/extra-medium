@@ -1,0 +1,17 @@
+site_name: Extra Medium
+nav:
+  - Home: index.md
+  
+theme:
+  name: material
+  
+  # Optional: Choose a color scheme (e.g., slate for dark mode)
+  palette:
+    scheme: primary
+    
+  # Optional: Show the file's last update date
+  features:
+    - content.action.edit
+    - content.tabs.link
+    - navigation.expand
+    - navigation.instant
