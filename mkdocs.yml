@@ -1,9 +1,16 @@
 site_name: Extra Medium
 site_url: https://bgarrison2.github.io/extra-medium
 site-base-url: /extra-medium/
+
 nav:
   - Home: index.md
-  
+  - Guides: 
+    - Introduction: Guides/Intro.md
+  - Recipes: 
+    - Chili: recipes/chili.md
+  - Blog:
+    - blog/index.md
+ 
 theme:
   name: material
   
@@ -19,3 +26,11 @@ theme:
     - content.tabs.link
     - navigation.expand
     - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.indexes
+    
+  plugins:
+    - blog
+
+    
