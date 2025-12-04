@@ -4,12 +4,14 @@ site-base-url: /extra-medium/
 
 nav:
   - Home: index.md
+   
   - Guides: 
-    - Introduction: Guides/Intro.md
-  - Recipes: 
-    - Chili: recipes/chili.md
-  - Blog:
-    - blog/index.md
+    - Getting started: Guides/Intro.md
+    
+  - Recipes:
+    - Getting started:
+    - Chicken Satay Chili: recipes/chicken-satay-chili.md
+    
  
 theme:
   name: material
@@ -30,7 +32,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     
-  plugins:
-    - blog
+
+
 
     

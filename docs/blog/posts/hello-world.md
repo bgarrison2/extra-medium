@@ -1,5 +1,5 @@
 ---
-date: 2025-12-03
+date: 2025-12-3
 ---
 
 I'm just testing out this feature.

@@ -1,2 +1,2 @@
-# Intro
-Test ed
+# Getting started
+I'm a moderately curious person and naturally have a lot of moderately interesting daily hobbies. Since I'm also a technical writer, I thought I'd document how I do some of these things.
