@@ -24,7 +24,7 @@ theme:
   
   logo: assets/logo.png
   
-  favicon: site/assets/images/favicon.png
+  favicon: assets/logo.png
   
   # Optional: Choose a color scheme (e.g., slate for dark mode)
   palette:
