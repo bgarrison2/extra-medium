@@ -8,7 +8,7 @@ nav:
     - About: about.md
    
   - Guides: 
-    - Getting started: guides/Intro.md
+    - Getting started: guides/index.md
     - Ride:
       - Set up tubeless tires: guides/ride/set-up-tubeless-tires.md
     - Extract:
