@@ -1,0 +1,3 @@
+I'm a technical writer working remotely from the great plains. Most of what I do has a regulatory component in the healthcare space, so I thought I'd build a personal docs-as-code site so that I can showcase some of the things I do professionally. 
+
+When I'm not heads down, I try to spend as much time outside as possible. Whether that is riding bikes, gardening, fly-fishing, or sampling different local coffeeshops. So these are the things I choose to write about here.

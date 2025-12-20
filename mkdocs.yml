@@ -3,13 +3,19 @@ site_url: https://bgarrison2.github.io/extra-medium
 site-base-url: /extra-medium/
 
 nav:
-  - Home: index.md
+  - Home: 
+    - Home: index.md
+    - About: about.md
    
   - Guides: 
-    - Getting started: Guides/Intro.md
-    
+    - Getting started: guides/Intro.md
+    - Ride:
+        - Set up tubeless tires: guides/ride/set-up-tubeless-tires.md
+    - Extract:
+        - Espresso gear: guides/extract/espresso-gear.md
   - Recipes:
     - Chicken Satay Chili: recipes/chicken-satay-chili.md
+    - Pickled Red Onions: recipes/pickled-onions.md
     
  
 theme:
@@ -30,6 +36,8 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.indexes
+    - navigation.expand
+    - navigation.path
     
 
 
