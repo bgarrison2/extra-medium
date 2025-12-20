@@ -10,9 +10,10 @@ nav:
   - Guides: 
     - Getting started: guides/Intro.md
     - Ride:
-        - Set up tubeless tires: guides/ride/set-up-tubeless-tires.md
+      - Set up tubeless tires: guides/ride/set-up-tubeless-tires.md
     - Extract:
-        - Espresso gear: guides/extract/espresso-gear.md
+      - Espresso gear: guides/extract/espresso-gear.md
+        
   - Recipes:
     - Chicken Satay Chili: recipes/chicken-satay-chili.md
     - Pickled Red Onions: recipes/pickled-onions.md
