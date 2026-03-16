@@ -3,17 +3,17 @@ site_url: https://bgarrison2.github.io/extra-medium
 site-base-url: /extra-medium/
 
 nav:
-  - Home: 
-    - Home: index.md
-    - About: about.md
+  - Home: index.md
    
-  - Guides: 
-    - Getting started: guides/index.md
+  - Guides:
+    - Getting started:
+      - Getting started: guides/index.md
     - Ride:
       - Set up tubeless tires: guides/ride/set-up-tubeless-tires.md
     - Extract:
       - Espresso gear: guides/extract/espresso-gear.md
     - Work:
+      - Extra Medium MKDocs Site: guides/work/extra-medium-mkdocs-site.md
       - Gitbook Product Guide: guides/work/gitbook-product-guide.md
         
   - Recipes:

@@ -1,0 +1,3 @@
+# Extra Medium MKDocs Site
+
+I built this personal docs-as-code site using MKDocs so that I can showcase some of the things I do professionally. Also, I wanted to show that I'm comfortable using Github, basic Terminal commands, a text editor, and of course a lot of AI assistance. Many of the commands and guidance I used to build this site came from Gemini. I also have been directly editing the site through Claude Code.
