@@ -45,8 +45,12 @@ theme:
     - navigation.indexes
     - navigation.expand
     - navigation.path
-    
 
-
-
-    
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bgarrison2
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/brandon-garrison-technical-writing/
+      name: LinkedIn
