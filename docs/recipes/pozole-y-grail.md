@@ -15,16 +15,14 @@ This green pozole won the 2026 Soyland Chili Throw Down. It's a home-scale riff 
 - Smoke at 325°F and pull the chicken when the breast probes 160°F. (~1 hr)
 - Let it rest, then pull the meat. Keep the hominy and stock, and discard the garlic head.
 
-## Toasted seeds
+## Salsa verde
 
-Toast in a dry pan until fragrant and golden:
+**Toast in a dry pan until fragrant and golden:**
 
 - 1/3 cup pepitas
 - 1 tsp cumin seeds
 - 1 tsp black peppercorns
 - 1 tsp coriander seeds
-
-## Salsa verde
 
 **Simmer in water just until softened** (the tomatillos only need to change color):
 
@@ -39,7 +37,7 @@ Toast in a dry pan until fragrant and golden:
 - 4 poblanos, roasted (not simmered), burnt skin removed, seeded and stemmed
 - The toasted pepitas and spices
 - 1/2 bunch cilantro
-- 3 to 4 leaves Swiss chard or lacinato kale
+- 3 to 4 leafy greens (for example, Swiss chard or lacinato kale)
 - 2 tsp Knorr chicken bouillon
 - A pinch of Mexican oregano
 - 2 cups stock
