@@ -12,7 +12,7 @@ This green pozole won the 2026 Soyland Chili Throw Down. It's a home-scale riff 
   - 1 whole head of garlic, top sliced off so it holds together (discarded afterward)
   - 1 tbsp ground cumin
   - A pinch of Mexican oregano
-- Pull the chicken when the breast reaches 160°F (smoker temperature and total time not recorded).
+- Smoke at 325°F and pull the chicken when the breast probes 160°F. Go by the probe, not the clock; it takes about an hour.
 - Let it rest, then pull the meat. Keep the hominy and stock, and discard the garlic head.
 
 ## Toasted seeds
