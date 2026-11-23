@@ -6,13 +6,13 @@ This green pozole won the 2026 Soyland Chili Throw Down. It's a home-scale riff 
 
 ## Smoked chicken and hominy
 
-- 1 whole chicken, seasoned with Meat Church Jalapeño Blanco rub (amount not recorded), smoked over a pan holding:
+- 1 whole chicken, seasoned liberally with Meat Church Jalapeño Blanco rub, smoked over a pan holding:
   - 4 cups stock
   - 3 cans golden hominy, drained and rinsed
   - 1 whole head of garlic, top sliced off so it holds together (discarded afterward)
   - 1 tbsp ground cumin
   - A pinch of Mexican oregano
-- Smoke at 325°F and pull the chicken when the breast probes 160°F. Go by the probe, not the clock; it takes about an hour.
+- Smoke at 325°F and pull the chicken when the breast probes 160°F. (~1 hr)
 - Let it rest, then pull the meat. Keep the hominy and stock, and discard the garlic head.
 
 ## Toasted seeds
@@ -29,7 +29,7 @@ Toast in a dry pan until fragrant and golden:
 **Simmer in water just until softened** (the tomatillos only need to change color):
 
 - 4 jalapeños, seeded and stemmed
-- 1/2 medium white onion (or 1/4 of a big one)
+- 1/2 medium white onion
 - 12 tomatillos
 - 6 garlic cloves
 
